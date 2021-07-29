@@ -3,13 +3,13 @@
 </h1>
 
 <p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=E51C44&labelColor=0A1033">
+  <img alt="License" src="https://camo.githubusercontent.com/b0fb0db053839bcb2e9b760c6935aea694a30e37ac291a9bad514e2c8e260a95/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d6c6963656e7365266d6573736167653d4d495426636f6c6f723d453531433434266c6162656c436f6c6f723d304131303333">
 
- <img src="https://img.shields.io/static/v1?label=NLW&message=06&color=E51C44&labelColor=0A1033" alt="NLW 06" />
+ <img src="https://camo.githubusercontent.com/5ee65be737a44f066072a8fe6297206e90c2553c639203fa0fee1b0811fcd253/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d4e4c57266d6573736167653d303626636f6c6f723d453531433434266c6162656c436f6c6f723d304131303333" alt="NLW 06" />
 </p>
 
 
-![cover](.github/cover.png?style=flat)
+![cover](https://github.com/rocketseat-education/nlw-06-react-native/raw/master/.github/cover.png?style=flat)
 
 
 ## 💻 Projeto
